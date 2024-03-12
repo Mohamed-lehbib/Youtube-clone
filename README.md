@@ -47,3 +47,11 @@ The fastest way to get started is to use the supabase-js client library which pr
 ```
 npm install @supabase/supabase-js
 ```
+
+### Installing React Icons
+
+installing it using npm
+
+```
+npm install react-icons --save
+```
